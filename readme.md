@@ -1,7 +1,6 @@
 # 关于我
 
 <div align="center">
-  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/cropped-cropped-头像1.jpg" alt="陆九九" width="300" height="300">
   <h1>陆九九</h1>
   <p>地信大三在读生 | 考研进行时</p>
 </div>
@@ -50,3 +49,11 @@
 ---
 
 如果你有任何问题或建议，欢迎通过以上联系方式与我联系。
+
+
+---
+<div align="center">
+  <h1>更新日志</h1>
+  <p>地信大三在读生 | 考研进行时</p>
+</div>
+
