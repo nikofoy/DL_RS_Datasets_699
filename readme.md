@@ -1,21 +1,23 @@
 # 关于我
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="陆九九" width="150" height="150">
+  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/cropped-cropped-头像1.jpg" alt="陆九九" width="150" height="150">
   <h1>陆九九</h1>
   <p>地信大三在读生 | 考研进行时</p>
 </div>
 
 ## 兴趣方向
 
-我对基于机器学习的地学应用充满热情，主要探索以下领域：
-- **GNSS**（全球导航卫星系统）
+主要探索与机器学习的地学应用，主要包括：
+- **GNSS地学应用**（全球导航卫星系统）
 - **遥感技术**
 - **人工智能（AI）**
+- **行星遥感**
+**咱主打就是一个多而杂！**
 
 ## 联系方式
 
-- **个人博客**: [www.luiujiu.site](http://www.luiujiu.site)
+- **个人博客**: [九九小筑](http://www.luiujiu.site)（随缘更新）
 - **QQ**: 3313014878
 - **微信**: xyRen31415926
 
@@ -24,7 +26,7 @@
 # 项目简介
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x150" alt="项目Logo" width="300" height="150">
+  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/233037zSmR6.jpg" alt="项目Logo" width="300" height="150">
   <h2>遥感开源数据集收集项目</h2>
   <p>创建于2024年11月14日</p>
 </div>
