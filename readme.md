@@ -34,10 +34,10 @@
 
 ## 项目标签
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/username/repo)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com/username/repo)
-[![GitHub issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/username/repo/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/username/repo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/nikofoy/repo)
+[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com/nikofoy/repo)
+[![GitHub issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/username/nikofoy/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nikofoy/repo/blob/main/LICENSE)
 
 ## 贡献指南
 
