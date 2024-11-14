@@ -5,14 +5,26 @@
   <p>创建于2024年11月14日</p>
 </div>
 
-本项目旨在收集和分享遥感开源数据集。如果你觉得这些资源对你有帮助，欢迎给项目点个Star，也欢迎大家补充更多的数据集！
+本项目旨在收集和分享遥感开源数据集。如果你觉得这些资源对你有帮助，欢迎Star，也欢迎大家补充更多的数据集！
+该项目长期更新，若有遗误或不慎涉及侵权，烦请评论或留言联系~
+
+## 项目收录
+- 图像分类数据集0个；
+- 目标检测数据集0个；
+- 图像分割数据集0个；
+- 变化检测数据集0个；
+- 实例分割数据集0个；
+- 多标签分类数据集0个；
+- 目标跟踪数据集0个；
+- 图像标题数据集0个；
+- 图像生成数据集0个；
 
 ## 项目标签
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/nikofoy/repo)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com/nikofoy/repo)
-[![GitHub issues](https://img.shields.io/github/issues/username/repo.svg)](https://github.com/username/nikofoy/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nikofoy/repo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nikofoy/repo?style=social&label=Star)](https://github.com/nikofoy/repo)
+[![GitHub forks](https://img.shields.io/github/forks/nikofoy/repo?style=social&label=Fork)](https://github.com/nikofoy/repo)
+[![GitHub issues](https://img.shields.io/github/issues/nikofoy/repo)](https://github.com/nikofoy/repo/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nikofoy/repo/blob/main/LICENSE)
 
 ## 贡献指南
 
@@ -22,9 +34,6 @@
 3. 提交 **Pull Request**
 
 ---
-
-如果你有任何问题或建议，欢迎通过以上联系方式与我联系。
-
 
 ---
 <div align="center">
