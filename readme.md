@@ -21,10 +21,10 @@
 
 ## 项目标签
 
-[![GitHub stars](https://img.shields.io/github/stars/nikofoy/repo?style=social&label=Star)](https://github.com/nikofoy/repo)
-[![GitHub forks](https://img.shields.io/github/forks/nikofoy/repo?style=social&label=Fork)](https://github.com/nikofoy/repo)
-[![GitHub issues](https://img.shields.io/github/issues/nikofoy/repo)](https://github.com/nikofoy/repo/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nikofoy/repo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nikofoy/DeepRsDatasets?style=social&label=Star)](https://github.com/nikofoy/DeepRsDatasets)
+[![GitHub forks](https://img.shields.io/github/forks/nikofoy/DeepRsDatasets?style=social&label=Fork)](https://github.com/nikofoy/DeepRsDatasets)
+[![GitHub issues](https://img.shields.io/github/issues/nikofoy/DeepRsDatasets)](https://github.com/nikofoy/DeepRsDatasets/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nikofoy/DeepRsDatasets/blob/main/LICENSE)
 
 ## 贡献指南
 
