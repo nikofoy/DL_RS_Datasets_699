@@ -42,4 +42,4 @@
 
 | 数据集名称 | 任务类型 | 影像尺寸 | 影像通道 | 影像数量 | 标注类别 | 标注格式 | 分辨率 | 影像类型 | 影像来源 | 发布机构 | 源地址 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| UCMerced LandUse | 图像分类 | 256 * 256 | 3 | 2100 | 21 | folder name | 0.3m | 卫星影像 | USGS National Map | University of California, Merced | http://weegee.vision.ucmerced.edu/datasets/landuse.html |
