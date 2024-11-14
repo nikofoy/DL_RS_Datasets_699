@@ -26,7 +26,7 @@
 # 项目简介
 
 <div align="center">
-  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/233037zSmR6.jpg" alt="项目Logo" width="300" height="150">
+  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/233037zSmR6.jpg" alt="Logo" width="300" height="150">
   <h2>遥感开源数据集收集项目</h2>
   <p>创建于2024年11月14日</p>
 </div>
