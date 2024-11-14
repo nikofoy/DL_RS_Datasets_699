@@ -1,7 +1,7 @@
 # 关于我
 
 <div align="center">
-  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/cropped-cropped-头像1.jpg" alt="陆九九" width="150" height="150">
+  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/cropped-cropped-头像1.jpg" alt="陆九九" width="300" height="300">
   <h1>陆九九</h1>
   <p>地信大三在读生 | 考研进行时</p>
 </div>
@@ -13,6 +13,7 @@
 - **遥感技术**
 - **人工智能（AI）**
 - **行星遥感**
+
 **咱主打就是一个多而杂！**
 
 ## 联系方式
@@ -26,7 +27,6 @@
 # 项目简介
 
 <div align="center">
-  <img src="http://www.lujiujiu.site/wp-content/uploads/2024/10/233037zSmR6.jpg" alt="Logo" width="300" height="150">
   <h2>遥感开源数据集收集项目</h2>
   <p>创建于2024年11月14日</p>
 </div>
